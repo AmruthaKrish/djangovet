@@ -1,8 +1,5 @@
 You can view the live Vet Office website [here](https://AmruthaMulinti.pythonanywhere.com).
 
-Should be a user to login, or an admin to view the admin page.
-Hence, attached images to check out.
-Drop an email to be an admin/user of this website or to know more about this project.
+To login, you should be an user first, so signup [here](https://AmruthaMulinti.pythonanywhere.com/signup). 
 
-Email: mulintiamrutha2000@gmail.com
 
